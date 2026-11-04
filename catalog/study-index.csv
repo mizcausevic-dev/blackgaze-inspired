@@ -1,0 +1,5 @@
+study_id,title,collection,tonic,tempo_bpm,meter,ppq,bars,end_tick,combined_path,roles
+bg01,Weather Line,pack-local equal-tempered pitch collection,G,168,4/4,480,32,61440,midi/bg01-weather-line/bg01-weather-line-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+bg02,Ash Field,pack-local equal-tempered pitch collection,A#,168,4/4,480,32,61440,midi/bg02-ash-field/bg02-ash-field-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+bg03,Bright Noise,pack-local equal-tempered pitch collection,C#,168,4/4,480,32,61440,midi/bg03-bright-noise/bg03-bright-noise-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
+bg04,Long Return,pack-local equal-tempered pitch collection,G#,168,4/4,480,32,61440,midi/bg04-long-return/bg04-long-return-combined.mid,chord_pulse; sub_bass; principal_motif; vocal_like_synth; counter_texture; drums
