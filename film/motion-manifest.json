@@ -1,0 +1,26 @@
+{
+  "title": "Blackgaze-Inspired",
+  "study": "bg01",
+  "bpm": 168,
+  "source_audio": "preview/blackgaze-inspired-simple-synth-preview.mp3",
+  "source_audio_sha256": "4982488224b55df05fba73d187cfc9dd9ea40dcbe0db87e6b266af25b700a9c1",
+  "source_midi": "midi/bg01-weather-line/bg01-weather-line-combined.mid",
+  "source_midi_sha256": "1be50f39adc85547bf4cf05fb8649a308d95044d7c501ec9ea897d0ca12229cc",
+  "source_events": "catalog/note-events.csv",
+  "source_events_sha256": "7cba65810c1b1749922f54e8ae89b1b6c10c2bff188e81ecf3204ca73debc39a",
+  "art_source_file": "film/motion-artwork.webp",
+  "art_source_sha256": "f188cdaaa36a9633c1db03aa930445e2a7412694f5c9c7a990a925225cf78468",
+  "excerpt_start_seconds": 0,
+  "duration_seconds": 18.0,
+  "video": "film/motion-preview.mp4",
+  "video_sha256": "fbfb7e4416c267a5c12b49b28c8a0d7712ca94d3a153a797cae3919c7c10deb1",
+  "caption": "film/motion-preview.vtt",
+  "resolution": "960x540",
+  "fps": 15,
+  "visualization": "Scrolling note events from the selected score over a moving cover image",
+  "disclosure": "preview, not master",
+  "limitations": [
+    "Simple-synth rendering, not a recorded performance.",
+    "No human listening review recorded."
+  ]
+}
