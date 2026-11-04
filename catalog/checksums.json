@@ -12,6 +12,16 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
+      "path": "README.md",
+      "bytes": 3161,
+      "sha256": "6d4fe55f9d55ceebfd82b367ea5349cd64e337a60b25d063a5b1902a1f5af06d"
+    },
+    {
+      "path": "RENDERER-METADATA-CORRECTION.md",
+      "bytes": 753,
+      "sha256": "40d1f0e5ef2fade78e474c6ca40fc3237eacdb668fce03a58b8b4d3508063101"
+    },
+    {
       "path": "art/cover-provenance.json",
       "bytes": 266,
       "sha256": "66ad99479f0e69c75988741a5ab6b86f1a4b18aa17a18129f7eb323ba8e55a39"
@@ -43,8 +53,8 @@
     },
     {
       "path": "catalog/patch-recipes.json",
-      "bytes": 1595,
-      "sha256": "4724b53a558fda717a8950a6be0a71836351cdb0ae1df7e15daf35357691dc3e"
+      "bytes": 1817,
+      "sha256": "7b7bd7356abb324a0903434f075fc7cba50b45d0794fb545f8c3e360f75beade"
     },
     {
       "path": "catalog/release-spec.json",
@@ -78,8 +88,8 @@
     },
     {
       "path": "downloads/blackgaze-inspired-midi.zip",
-      "bytes": 34248,
-      "sha256": "3227c8d96dce15bcfd1722d35865ee4b06c2c76afc231d690048a2be5ac1acbe"
+      "bytes": 35761,
+      "sha256": "3511b05908587555514b9a9de58fbce1ac0845978f076a0a59a678725a96f107"
     },
     {
       "path": "index.html",
@@ -233,13 +243,8 @@
     },
     {
       "path": "preview/preview-manifest.json",
-      "bytes": 1050,
-      "sha256": "0953d95ff33fe18f1b5878a60e209921644126a2c38b8eb1b42c815ee2656b5d"
-    },
-    {
-      "path": "README.md",
-      "bytes": 3000,
-      "sha256": "fc5c8d079f1a3f1766c0f720d86b3890a90d9d6881f133e4e960c03395b5b02d"
+      "bytes": 1133,
+      "sha256": "a58cf82575319d1ba0780147269bb410474b6a2cd4830bc174d05699965ed094"
     },
     {
       "path": "social/instagram/caption.txt",
@@ -253,13 +258,13 @@
     },
     {
       "path": "tools/build_footwork.py",
-      "bytes": 46672,
-      "sha256": "d746782d6acd6b1dcde4190527544e5b59765b73e6c01ec1f66af5e2ac057532"
+      "bytes": 46932,
+      "sha256": "bcf2c82d909ad5b5b4afce885c34f9a2c2e799660d5c3cda80ec89beffa6f994"
     },
     {
       "path": "tools/build_release.py",
-      "bytes": 47317,
-      "sha256": "c03364c461c23c884745fed0b76c6e917ef0d690b14bcf83bb5e30ce46008704"
+      "bytes": 47494,
+      "sha256": "d94746bf32efb84ea19b00f0ce2afdd356933c40b611b13b79d3395bed131f1d"
     },
     {
       "path": "tools/validate_release.py",
