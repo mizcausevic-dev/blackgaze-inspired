@@ -1,9 +1,9 @@
 {
   "label": "preview, not a master.",
   "preview_path": "preview/blackgaze-inspired-simple-synth-preview.mp3",
-  "preview_sha256": "4982488224b55df05fba73d187cfc9dd9ea40dcbe0db87e6b266af25b700a9c1",
+  "preview_sha256": "b5ff8ad3c875a5c6a093a8abaa51aad1c7f26488c3330e384669f66c377ab4a2",
   "source_midi_path": "midi/bg01-weather-line/bg01-weather-line-combined.mid",
-  "source_midi_sha256": "1be50f39adc85547bf4cf05fb8649a308d95044d7c501ec9ea897d0ca12229cc",
+  "source_midi_sha256": "43bba8d2afee8578999d3e1357d667f43529e2e022870cbb33ffa319457e331d",
   "renderer": "release-simple-synth 1.0.0",
   "renderer_configuration": {
     "sample_rate": 44100,
@@ -23,7 +23,7 @@
     "end_seconds": 45.714
   },
   "measurement": {
-    "sample_peak": 0.133677,
+    "sample_peak": 0.130715,
     "not_lufs_or_true_peak": true
   },
   "limitations": "Automated generation and decode checks only. Nobody auditioned this simple-synthesis preview. It is not a finished-production sound or master."

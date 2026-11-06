@@ -1,6 +1,6 @@
 {
   "status": "PASS",
-  "run_time_utc": "2026-11-04T23:37:40.280891+00:00",
+  "run_time_utc": "2026-11-06T11:28:24.443538+00:00",
   "tool": "validate_release.py with Python 3.14.0",
   "files_checked": 28,
   "errors": [],
@@ -8,8 +8,8 @@
   "midi_files": [
     {
       "path": "midi/bg01-weather-line/bg01-weather-line-combined.mid",
-      "bytes": 8179,
-      "sha256": "1be50f39adc85547bf4cf05fb8649a308d95044d7c501ec9ea897d0ca12229cc",
+      "bytes": 7669,
+      "sha256": "43bba8d2afee8578999d3e1357d667f43529e2e022870cbb33ffa319457e331d",
       "errors": []
     },
     {
@@ -32,8 +32,8 @@
     },
     {
       "path": "midi/bg01-weather-line/principal_motif.mid",
-      "bytes": 1632,
-      "sha256": "e2ea3161dd17357c32165a303310f4d18c8f859f7fe16185cd0b690372c9d17b",
+      "bytes": 1122,
+      "sha256": "99c02f6152404f8d7212076d1fb1d7330ca0207d28669b3eddcca8e5357edea3",
       "errors": []
     },
     {
@@ -50,8 +50,8 @@
     },
     {
       "path": "midi/bg02-ash-field/bg02-ash-field-combined.mid",
-      "bytes": 8180,
-      "sha256": "e5c9099b5d8c2a2dc1384b4359ca5e66fc0882cf253d1628459dcd90592fd72b",
+      "bytes": 7669,
+      "sha256": "c2588a59ff3edfc48d4e8fe2d60ab29244ed97ee519ae30f55ed8624ba857201",
       "errors": []
     },
     {
@@ -74,8 +74,8 @@
     },
     {
       "path": "midi/bg02-ash-field/principal_motif.mid",
-      "bytes": 1633,
-      "sha256": "911b1efeb4b0cddf3265b0d50fae59ad75ad60bd3246561d974cafdb36c66959",
+      "bytes": 1122,
+      "sha256": "6a7519f9b06d4561cbb2a54a7491b9a1ade4c1b86ab4b2dd7780100bd7e456cf",
       "errors": []
     },
     {
@@ -92,8 +92,8 @@
     },
     {
       "path": "midi/bg03-bright-noise/bg03-bright-noise-combined.mid",
-      "bytes": 8179,
-      "sha256": "f8b5f1fec8c37076c7cbd238f60d4f7137153299ee6b274bf226dfa4028a422f",
+      "bytes": 7669,
+      "sha256": "fc8a2991c89bb204fae046fc39350a9583bcc812a91bd02b750538b328151b5c",
       "errors": []
     },
     {
@@ -116,8 +116,8 @@
     },
     {
       "path": "midi/bg03-bright-noise/principal_motif.mid",
-      "bytes": 1632,
-      "sha256": "c4ada24cf065c6df2ef51b8c864cd4dc6737692ea87e535a07393e9be3c95cb2",
+      "bytes": 1122,
+      "sha256": "59ce9adff56176495af6de746d548a625298646b8c5ecec505c5cc47f2d60ef1",
       "errors": []
     },
     {
@@ -134,8 +134,8 @@
     },
     {
       "path": "midi/bg04-long-return/bg04-long-return-combined.mid",
-      "bytes": 8179,
-      "sha256": "5d7d32481686580d348679e2edb2156477f6536b637c396c674d09c75011189e",
+      "bytes": 7671,
+      "sha256": "291dd540a37574eb0a68dcbb52bb82b6ba5ec9f86d9e20060ddab3d93a62cbf2",
       "errors": []
     },
     {
@@ -158,8 +158,8 @@
     },
     {
       "path": "midi/bg04-long-return/principal_motif.mid",
-      "bytes": 1632,
-      "sha256": "dd08c927d536c6820fc1c8e9407182e4daf56e204b6f2f2819048d1742a05bf2",
+      "bytes": 1124,
+      "sha256": "f516f33231958517084226cedd14c255a7020a7f47990435799a868aba800299",
       "errors": []
     },
     {
