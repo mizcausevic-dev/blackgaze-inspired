@@ -78,8 +78,8 @@
     },
     {
       "path": "downloads/blackgaze-inspired-midi.zip",
-      "bytes": 33421,
-      "sha256": "c589ff452467d3fa60645dce797a1ac4c16e40b121bfbf39c66f8fd89648714b"
+      "bytes": 36004,
+      "sha256": "7ea671908afc1eb6273ae2f39c197a2c8b819feeda4be9904a7c1c19d77835f0"
     },
     {
       "path": "film/motion-artwork.webp",
@@ -113,8 +113,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 10289,
-      "sha256": "d132944886e035bcc0ea496784d93e7beaa8a2042f4abc7b57e4e1ae30395306"
+      "bytes": 10479,
+      "sha256": "a4b8f17bad8a99ac7d91b26ce9e36cdca8ebe22aced01997dd329bf30c217531"
     },
     {
       "path": "midi/bg01-weather-line/bg01-weather-line-combined.mid",
@@ -257,6 +257,11 @@
       "sha256": "e459cf2cc4f75a7d2348b0873448fe4d4bc2a089087e160a762ff7adf6c10b3d"
     },
     {
+      "path": "MIDI-BUYER-LICENSE-v1.0.txt",
+      "bytes": 1652,
+      "sha256": "1111ca6dd4ca4ff4163f199fae341ff54ca3715acc3cf19ca332f2f6e58c36c9"
+    },
+    {
       "path": "MOTION-PREVIEW.md",
       "bytes": 789,
       "sha256": "6b4a35936d6e7af2afa8ed5c1c91f9ad281f2d8bc6d65968263fb895e3a2063f"
@@ -273,8 +278,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 3379,
-      "sha256": "1aeb8e20777171be3ecc9616bafb4ef6cc93743e6c674237373a328907f9395c"
+      "bytes": 3494,
+      "sha256": "6cf8d55807404767d7b4f9bde3a789409b5c20a8404ae793576f944385fbeacf"
     },
     {
       "path": "RENDERER-METADATA-CORRECTION.md",
